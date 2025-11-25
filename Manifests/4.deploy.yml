@@ -22,7 +22,7 @@ spec:
 
       containers:
         - name: yelp-camp-container
-          image: nithanth19/camp:v1
+          image: nihanth19/camp:v1
           ports:
             - containerPort: 3000
 
